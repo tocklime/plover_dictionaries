@@ -1,3 +1,6 @@
 [submodule "lapwing"]
 	path = lapwing
 	url = https://github.com/aerickt/steno-dictionaries
+[submodule "warbler"]
+	path = warbler
+	url = https://github.com/peaceknight05/warbler-dictionaries
