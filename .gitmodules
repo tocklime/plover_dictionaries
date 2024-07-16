@@ -1,0 +1,3 @@
+[submodule "lapwing"]
+	path = lapwing
+	url = https://github.com/aerickt/steno-dictionaries
