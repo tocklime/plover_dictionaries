@@ -3,5 +3,19 @@
 "PHOEPBLG": "{:emoji}",
 "RA/PEU": "{Rapi^}{:case:cap_first_word}",
 "RA*U": "{PLOVER:solo_dict:+return-from-raw.json}",
-"EUPB/TER/KWREG/TPHUPL": "interregnum"
+"EUPB/TER/KWREG/TPHUPL": "interregnum",
+"KAO*EB": "Yask (WINdows,LInuX,COLEmak,QWERTy,CONSole,RESeT*) >",
+"KAO*EB/KOPBS": "Console>{^ ^}{:console}",
+"KAO*EB/R*EFT": "{:reset_state}",
+"#KOE/PWOE": "Kobo",
+"KAO*EB/KOEL": "{:keyboard_layout:colemak}",
+"KAO*EB/HREUBL": "{:unicode:linux_ibus}",
+"AOERB": "eesh",
+"#TPHOE/TPHA": "Nona",
+"KAO*EB/WEUPB": "{:unicode:windows_hex}",
+"PWRUPBT": "brunt",
+"#TKPWRUPL": "Grum",
+"KAO*EB/KWERT": "{:keyboard_layout:qwerty}",
+"AS/TRO/TPHAOER": "astroneer",
+"TKPWRAPB/TKAD": "grandad"
 }
